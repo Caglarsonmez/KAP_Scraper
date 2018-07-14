@@ -1,0 +1,4 @@
+Kap Initial Scraper (as the name implies) scrapes https://www.kap.org.tr/tr/bist-sirketler website which includes more than 500 Turkish Corporations.
+KAP translates to "Public Disclosure Platform". It is a platform that every public company and every company that issues public debt (long term bonds etc.) must disclose their financial and non financial data periodically.
+Sorry for the bad code and using mostly Turkish. This was literally my first Python project.
+I will try to translate and clean-up code for general use.
